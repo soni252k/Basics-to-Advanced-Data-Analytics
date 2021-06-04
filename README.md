@@ -15,3 +15,5 @@ Lab 6- Different classification models: K-NN Classifiers, Naive Bayes Classifier
 Lab 7- Logistic Regression.
 
 Lab 8- Association Rule Mining: Apriori Algorithm, FP Growth
+
+### Refer to the PDF attached to get insights of each lab.
