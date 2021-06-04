@@ -1,4 +1,4 @@
-# Basics-to-Data-Analytics
+# Basics-to-Advanced-Data-Analytics
 
 Lab 1- Descriptive measures of statistics and perform correlation and regression analysis.
 
